@@ -1,0 +1,9 @@
+.color-back{
+    background-image: linear-gradient(90deg, rgb(71, 67, 35) 0%, rgb(207, 129, 236) 0%, rgb(148, 130, 213) 100%);
+    /* color: #fff; */
+    border-radius: 30px;
+    width: 32%;
+    margin-left: 35%;
+    padding-bottom: 5%;
+    /* padding-top: 2%; */
+}
